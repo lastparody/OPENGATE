@@ -6,7 +6,7 @@
 </p><br>
 
 <p align="center">
-  <a href="https://ozkantanrikulu.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Powered%20by-Özkan%20Tanrıkulu-1e6eb5?style=plastic" alt="Powered by Özkan Tanrıkulu"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/version-1.0.3-e94560?style=plastic" alt="Version"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/macOS-14.0+-000000?style=plastic" alt="macOS"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/Silicon%20%26%20Intel-compatible-cd7700?style=plastic" alt="Architecture"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/license-Proprietary-9b59b6?style=plastic" alt="License"></a>&nbsp;&nbsp;<a href="https://virustotal.com/gui/file/623398d887cd857673805d68cb2dea91e0aca2859cb9e9b0783a94e95a117bc7" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/VirusTotal-Clean-brightgreen?style=plastic&logo=virustotal&logoColor=white" alt="VirusTotal"></a>
+  <a href="https://ozkantanrikulu.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Powered%20by-Özkan%20Tanrıkulu-1e6eb5?style=plastic" alt="Powered by Özkan Tanrıkulu"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/version-1.0.3-e94560?style=plastic" alt="Version"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/macOS-14.0+-000000?style=plastic" alt="macOS"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/Silicon%20%26%20Intel-compatible-cd7700?style=plastic" alt="Architecture"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/license-Proprietary-9b59b6?style=plastic" alt="License"></a>&nbsp;&nbsp;<a href="https://virustotal.com/gui/file/48d0ed815c7a0c738ff047da4a81f33deb479abfd28516b7652a0f8746f6edbc" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/VirusTotal-Clean-brightgreen?style=plastic&logo=virustotal&logoColor=white" alt="VirusTotal"></a>
 
 
   
@@ -42,7 +42,7 @@ OpenGate is engineered for minimal system impact. Every component is optimized t
 
 | Metric | Value |
 |--------|-------|
-| RAM Usage | ~30 MB (stable, background) |
+| RAM Usage | ~20 MB (stable, background) |
 | CPU Usage | <0,1% (idle) |
 | Battery Impact | Negligible |
 | Network Speed | No reduction |
@@ -101,7 +101,7 @@ That's it.
 - No. The Go core is event-driven and sleeps when idle. CPU usage stays below **0.1%** during normal operation.
 
 **❓ How much RAM does it use?**
-- Approximately **30 MB**, stable. Does not grow over time.
+- Approximately **20 MB**, stable. Does not grow over time.
 
 **❓ Do I need to keep the app open?**
 - Yes. Enable **Launch at Startup** in settings to start it automatically on login.
