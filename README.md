@@ -167,20 +167,7 @@ OpenGate is engineered and optimized for minimal resource consumption.
 
 ## Installation
 
-1. Download the latest `OpenGate.zip` from [Releases](https://github.com/lastparody/opengate/releases)
-2. Open the DMG and drag **OpenGate.app** to your Applications folder
-3. On first launch, if macOS shows a security warning:
-   - Close the dialog
-   - Go to **System Settings → Privacy & Security**
-   - Click **"Open Anyway"**
-
-> OpenGate is not notarized by Apple. This is expected for open-distribution software. The security warning is a standard macOS Gatekeeper prompt.
-
----
-
-## How to Use
-
-1.  Download the latest `OpenGate.zip` from the [Releases](https://www.google.com/search?q=https://github.com/lastparody/opengate/releases) page.
+1.  Download the latest `OpenGate.zip` from the [Releases](https://github.com/lastparody/opengate/releases) page.
 2.  Extract the ZIP file and drag **OpenGate.app** into your **Applications** folder.
 3.  When you first launch the app, macOS will display a security warning. To bypass this:
       - Click **"OK"** to close the dialog.
@@ -188,7 +175,16 @@ OpenGate is engineered and optimized for minimal resource consumption.
       - Scroll down and click the **"Open Anyway"** button.
       - Confirm by entering your password or using Touch ID, then click **"Open"**.
 
-> OpenGate is not notarized by Apple. This is expected for independent, open-distribution software. The security warning is a standard macOS prompt and does not indicate any security risk.
+> OpenGate is not notarized by Apple. This is expected for open-distribution software. The security warning is a standard macOS Gatekeeper prompt.
+
+---
+
+## How to Use
+
+1. Launch OpenGate from the Applications folder.
+2. Click the shield icon to establish the connection.
+3. The icon will turn green once protection is activated.
+4. All your internet traffic is now being routed through OpenGate.
 
 ---
 
