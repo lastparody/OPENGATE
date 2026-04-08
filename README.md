@@ -50,7 +50,7 @@ OpenGate düşük kaynak tüketimiyle çalışacak şekilde tasarlanmış ve opt
 
 ## Kurulum
 
-1.  En güncel `OpenGate.zip` dosyasını [Releases](https://www.google.com/search?q=https://github.com/lastparody/opengate/releases) sayfasından indirin.
+1.  En güncel `OpenGate.zip` dosyasını [Releases](https://github.com/lastparody/opengate/releases) sayfasından indirin.
 2.  ZIP dosyasını açın ve içindeki **OpenGate.app** dosyasını **Uygulamalar** klasörüne sürükleyin.
 3.  Uygulamayı ilk kez açtığınızda macOS bir güvenlik uyarısı gösterecektir. Bu durumda:
       - İletişim kutusundaki **"Tamam"** butonuna basarak pencereyi kapatın.
