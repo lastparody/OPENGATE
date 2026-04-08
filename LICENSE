@@ -1,101 +1,51 @@
 
-OWNERSHIP AND TERMS OF USE
+
+END-USER LICENSE AGREEMENT (EULA)
 
 Copyright © 2026 OZKAN TANRIKULU / OpenGate. All Rights Reserved.
 
-This software, including its source code, compiled files, algorithms, designs, database structures, 
-and all related documentation (hereinafter referred to as the "Software"), is protected by international 
-copyright laws and intellectual property treaties.
+1. GRANT OF LICENSE
+Subject to the terms and conditions of this Agreement, Özkan Tanrıkulu ("Licensor") grants you a limited, non-exclusive, non-transferable license to download, install, and use the OpenGate software and its related documentation (collectively, the "Software") strictly for personal, non-commercial purposes. 
 
-The sole and legal owner of the Software is OZKAN TANRIKULU / OpenGate.
+2. LICENSE RESTRICTIONS
+This Software is proprietary and not open-source. Except as expressly permitted by this Agreement, you may not:
+ Use the Software for any commercial, business, academic, or institutional purposes.
+ Copy, distribute, publish, rent, lease, sell, or sub-license the Software.
+ Modify, translate, reverse engineer, decompile, disassemble, or attempt to discover the source code of the Software.
+ Create derivative works based on the Software or integrate it into other projects.
+ Bypass or modify any security or licensing mechanisms within the Software.
 
-LICENSE SCOPE AND USAGE RESTRICTIONS
+3. OWNERSHIP AND INTELLECTUAL PROPERTY
+The Software is licensed, not sold. All rights, title, and interest in and to the Software, including all copyrights, patents, trade secrets, and trademarks, are the exclusive property of Özkan Tanrıkulu / OpenGate. 
 
-This Software is NOT open-source and is not provided under any public license. Accessing, downloading, 
-or possessing the source code or compiled files of the Software does not grant you any rights, title, 
-or license to the Software.
+4. DISCLAIMER OF WARRANTY
+THIS SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
 
-The following actions are STRICTLY PROHIBITED:
-
-Use: Running, integrating, or using the Software for any commercial, personal, academic, or institutional 
-purpose.
-
-Copying and Distribution: Copying, reproducing, backing up, sharing with third parties, or publishing the 
-Software in whole or in part on any platform.
-
-Modification and Reverse Engineering: Modifying, attempting to access the source code, decompiling, 
-reverse-engineering, or attempting to bypass encryption or security measures.
-
-Derivative Works: Developing new software, plugins, or including the Software in another project 
-using its code or logic.
-
-Commercial Transactions: Selling, renting, sub-licensing, marketing, or attempting to generate direct 
-or indirect income from the Software.
-
-INTELLECTUAL PROPERTY RIGHTS
-
-All patents, trademarks, trade secrets, and other intellectual property rights of the Software belong 
-exclusively to OZKAN TANRIKULU / OpenGate. Any infringement of these rights will result in immediate 
-legal action to the maximum extent permitted by applicable laws and international legislation.
-
-DISCLAIMER OF WARRANTY AND LIABILITY
-
-THIS SOFTWARE IS PROVIDED "AS IS". THE COPYRIGHT HOLDER MAKES NO EXPRESS OR IMPLIED WARRANTIES, 
-INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
-PURPOSE, OR NON-INFRINGEMENT.
-
-IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, 
-EXEMPLARY, OR CONSEQUENTIAL DAMAGES, DATA LOSS, OR BUSINESS INTERRUPTION ARISING IN ANY WAY OUT 
-OF THE ACCESS, POSSESSION, OR UNAUTHORIZED USE OF THIS SOFTWARE.
+5. LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ----------------------------------------------------------------------------------------------------------
 
-MÜLKİYET VE KULLANIM ŞARTLARI
+SON KULLANICI LİSANS SÖZLEŞMESİ
 
 Copyright © 2026 Özkan Tanrıkulu / OpenGate. Tüm Hakları Saklıdır.
 
-Bu yazılım, kaynak kodları, derlenmiş dosyaları, algoritmaları, tasarımları, veritabanı yapıları ve 
-ilgili tüm dokümantasyonları dâhil olmak üzere (bundan böyle "Yazılım" olarak anılacaktır) uluslararası 
-telif hakkı yasaları ve fikri mülkiyet sözleşmeleri ile korunmaktadır.
+1. LİSANS VERİLMESİ
+Bu Sözleşmenin hüküm ve koşullarına tabi olmak kaydıyla, Özkan Tanrıkulu ("Lisans Veren"), OpenGate yazılımını ve ilgili belgelerini (birlikte "Yazılım" olarak anılacaktır) yalnızca kişisel ve ticari olmayan amaçlarla indirmeniz, kurmanız ve kullanmanız için size sınırlı, münhasır olmayan ve devredilemez bir kullanım hakkı (lisans) verir.
 
-Yazılımın tek ve yasal sahibi Özkan Tanrıkulu / OpenGate'dir.
+2. LİSANS KISITLAMALARI
+Bu Yazılım tescilli bir mülktür ve açık kaynak kodlu değildir. Bu Sözleşme ile açıkça izin verilen durumlar haricinde aşağıdakileri yapamazsınız:
+ Yazılımı herhangi bir ticari, kurumsal, akademik veya iş amaçlı kullanmak.
+ Yazılımı kopyalamak, dağıtmak, yayınlamak, kiralamak, satmak veya alt lisansını vermek.
+ Yazılımı değiştirmek, çevirmek, tersine mühendislik yapmak, kaynak koda dönüştürmek veya kaynak kodunu elde etmeye çalışmak.
+ Yazılımı temel alan türev eserler oluşturmak veya başka projelere entegre etmek.
+ Yazılımdaki herhangi bir güvenlik veya lisanslama mekanizmasını atlamak veya değiştirmek.
 
-LİSANS KAPSAMI VE KULLANIM KISITLAMALARI
+3. MÜLKİYET VE FİKRİ MÜLKİYET HAKLARI
+Yazılım satılmamakta, yalnızca lisanslanmaktadır. Yazılıma ait tüm telif hakları, patentler, ticari sırlar ve ticari markalar dahil olmak üzere tüm hak, mülkiyet ve menfaatler münhasıran Özkan Tanrıkulu / OpenGate'e aittir.
 
-Bu Yazılım açık kaynaklı değildir ve kamuya açık bir lisans (GPL, MIT vb.) ile sunulmamaktadır. Yazılımın 
-kaynak kodlarına veya derlenmiş dosyalarına herhangi bir şekilde erişmiş, indirmiş veya elinde bulunduruyor 
-olmanız, size Yazılım üzerinde hiçbir hak, mülkiyet veya lisans vermez.
+4. GARANTİ REDDİ
+BU YAZILIM "OLDUĞU GİBİ" VE "MEVCUT OLDUĞU ŞEKİLDE" SUNULMAKTADIR. TİCARİ ELVERİŞLİLİĞE, BELİRLİ BİR AMACA UYGUNLUĞA VE İHLAL ETMEMEYE İLİŞKİN GARANTİLER DÂHİL ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE AÇIK VEYA ZIMNİ HİÇBİR GARANTİ VERİLMEMEKTEDİR.
 
-Aşağıda belirtilen eylemler KESİNLİKLE YASAKTIR:
-
-Kullanım: Yazılımı ticari, kişisel, akademik veya herhangi bir kurumsal amaçla çalıştırmak, entegre etmek 
-veya kullanmak.
-
-Kopyalama ve Dağıtım: Yazılımın tamamını veya herhangi bir parçasını kopyalamak, çoğaltmak, yedeklemek, 
-üçüncü şahıslarla paylaşmak veya herhangi bir platformda yayınlamak.
-
-Müdahale ve Tersine Mühendislik: Yazılım üzerinde değişiklik yapmak, kaynak koduna erişmeye çalışmak, kaynak 
-koda dönüştürmek, tersine mühendislik uygulamak veya şifreleme/güvenlik önlemlerini aşmaya çalışmak.
-
-Türev Eser ve Geliştirme: Yazılımın kodlarını veya mantığını kullanarak yeni yazılımlar geliştirmek, eklenti 
-yazmak veya Yazılımı başka bir projeye dahil etmek.
-
-Ticari İşlemler: Yazılımı satmak, kiralamak, alt lisanslamak, pazarlamak veya üzerinden doğrudan/dolaylı 
-gelir elde etmeye çalışmak.
-
-FİKRİ MÜLKİYET HAKLARI
-
-Yazılımın tüm patent, ticari marka, ticari sır ve diğer fikri mülkiyet hakları münhasıran Özkan Tanrıkulu 
-/ OpenGate'e aittir. Bu hakların herhangi bir şekilde ihlali durumunda, geçerli yasaların ve uluslararası 
-mevzuatın izin verdiği en geniş ölçüde derhal yasal işlem başlatılacaktır.
-
-SORUMLULUK REDDİ VE GARANTİ ŞARTLARI
-
-BU YAZILIM "OLDUĞU GİBİ" SUNULMAKTADIR. HAK SAHİBİ, YAZILIMIN TİCARİ ELVERİŞLİLİĞİ, BELİRLİ BİR AMACA 
-UYGUNLUĞU VEYA İHLAL ETMEME GARANTİLERİ DÂHİL ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE, AÇIK VEYA ZIMNİ HİÇBİR 
-GARANTİ VERMEZ.
-
-HİÇBİR KOŞULDA HAK SAHİBİ; YAZILIMIN ERİŞİMİNDEN, BULUNDURULMASINDAN VEYA HERHANGİ BİR ŞEKİLDE İZİNSİZ 
-KULLANIMDAN KAYNAKLANAN DOĞRUDAN, DOLAYLI, ÖZEL VEYA SONUÇ OLARAK ORTAYA ÇIKAN HİÇBİR MADDİ/MANEVİ ZARARDAN, 
-VERİ KAYBINDAN VEYA İŞ KESİNTİSİNDEN SORUMLU TUTULAMAZ.
-
+5. SORUMLULUK SINIRLAMASI
+HAK SAHİBİ HİÇBİR DURUMDA; YAZILIMDAN, YAZILIMIN KULLANIMINDAN VEYA YAZILIMLA İLGİLİ DİĞER İŞLEMLERDEN KAYNAKLANAN SÖZLEŞME İHLALİ, HAKSIZ FİİL VEYA DİĞER SEBEPLERE DAYALI HİÇBİR TALEPTEN, ZARARDAN VEYA DİĞER YÜKÜMLÜLÜKLERDEN SORUMLU TUTULAMAZ.
