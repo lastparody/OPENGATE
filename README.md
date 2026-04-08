@@ -167,7 +167,7 @@ OpenGate is engineered and optimized for minimal resource consumption.
 
 ## Installation
 
-1. Download the latest `OpenGate.dmg` from [Releases](https://github.com/lastparody/opengate/releases)
+1. Download the latest `OpenGate.zip` from [Releases](https://github.com/lastparody/opengate/releases)
 2. Open the DMG and drag **OpenGate.app** to your Applications folder
 3. On first launch, if macOS shows a security warning:
    - Close the dialog
