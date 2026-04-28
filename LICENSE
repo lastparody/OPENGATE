@@ -1,22 +1,18 @@
-
-
 END-USER LICENSE AGREEMENT (EULA)
-
 Copyright © 2026 OZKAN TANRIKULU / OpenGate. All Rights Reserved.
-
 1. GRANT OF LICENSE
-Subject to the terms and conditions of this Agreement, Özkan Tanrıkulu ("Licensor") grants you a limited, non-exclusive, non-transferable license to download, install, and use the OpenGate software and its related documentation (collectively, the "Software") strictly for personal, non-commercial purposes. 
+Subject to the terms and conditions of this Agreement, Özkan Tanrıkulu ("Licensor") grants you a limited, non-exclusive, non-transferable license to download, install, and use the OpenGate software and its related documentation (collectively, the "Software") strictly for personal, non-commercial, and non-academic purposes.
 
 2. LICENSE RESTRICTIONS
 This Software is proprietary and not open-source. Except as expressly permitted by this Agreement, you may not:
- Use the Software for any commercial, business, academic, or institutional purposes.
- Copy, distribute, publish, rent, lease, sell, or sub-license the Software.
- Modify, translate, reverse engineer, decompile, disassemble, or attempt to discover the source code of the Software.
- Create derivative works based on the Software or integrate it into other projects.
- Bypass or modify any security or licensing mechanisms within the Software.
+•	Use the Software for any commercial, business, academic, or institutional purposes.
+•	Copy, distribute, publish, rent, lease, sell, or sub-license the Software.
+•	Modify, translate, reverse engineer, decompile, disassemble, or attempt to discover the source code of the Software.
+•	Create derivative works based on the Software or integrate it into other projects.
+•	Bypass or modify any security or licensing mechanisms within the Software.
 
 3. OWNERSHIP AND INTELLECTUAL PROPERTY
-The Software is licensed, not sold. All rights, title, and interest in and to the Software, including all copyrights, patents, trade secrets, and trademarks, are the exclusive property of Özkan Tanrıkulu / OpenGate. 
+The Software is licensed, not sold. All rights, title, and interest in and to the Software, including all copyrights, patents, trade secrets, and trademarks, are the exclusive property of Özkan Tanrıkulu / OpenGate.
 
 4. DISCLAIMER OF WARRANTY
 THIS SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
@@ -24,28 +20,38 @@ THIS SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KI
 5. LIMITATION OF LIABILITY
 IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-----------------------------------------------------------------------------------------------------------
+6. TERMINATION
+This license is effective until terminated. It will terminate automatically, without notice from the Licensor, if you fail to comply with any term or condition of this Agreement. Upon termination, you must immediately cease all use of the Software and destroy all copies in your possession.
+
+7. LANGUAGE PRECEDENCE
+This Agreement is provided in both English and Turkish. In the event of any conflict or inconsistency between the two versions, the English version shall prevail and govern.
+
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 
 SON KULLANICI LİSANS SÖZLEŞMESİ
-
 Copyright © 2026 Özkan Tanrıkulu / OpenGate. Tüm Hakları Saklıdır.
-
 1. LİSANS VERİLMESİ
-Bu Sözleşmenin hüküm ve koşullarına tabi olmak kaydıyla, Özkan Tanrıkulu ("Lisans Veren"), OpenGate yazılımını ve ilgili belgelerini (birlikte "Yazılım" olarak anılacaktır) yalnızca kişisel ve ticari olmayan amaçlarla indirmeniz, kurmanız ve kullanmanız için size sınırlı, münhasır olmayan ve devredilemez bir kullanım hakkı (lisans) verir.
+Bu Sözleşmenin hüküm ve koşullarına tabi olmak kaydıyla, Özkan Tanrıkulu ("Lisans Veren"), OpenGate yazılımını ve ilgili belgelerini (birlikte "Yazılım" olarak anılacaktır) yalnızca kişisel, ticari olmayan ve akademik olmayan amaçlarla indirmeniz, kurmanız ve kullanmanız için size sınırlı, münhasır olmayan ve devredilemez bir kullanım hakkı (lisans) verir.
 
 2. LİSANS KISITLAMALARI
 Bu Yazılım tescilli bir mülktür ve açık kaynak kodlu değildir. Bu Sözleşme ile açıkça izin verilen durumlar haricinde aşağıdakileri yapamazsınız:
- Yazılımı herhangi bir ticari, kurumsal, akademik veya iş amaçlı kullanmak.
- Yazılımı kopyalamak, dağıtmak, yayınlamak, kiralamak, satmak veya alt lisansını vermek.
- Yazılımı değiştirmek, çevirmek, tersine mühendislik yapmak, kaynak koda dönüştürmek veya kaynak kodunu elde etmeye çalışmak.
- Yazılımı temel alan türev eserler oluşturmak veya başka projelere entegre etmek.
- Yazılımdaki herhangi bir güvenlik veya lisanslama mekanizmasını atlamak veya değiştirmek.
+•	Yazılımı herhangi bir ticari, iş, akademik veya kurumsal amaçla kullanmak.
+•	Yazılımı kopyalamak, dağıtmak, yayınlamak, kiralamak, satmak veya alt lisansını vermek.
+•	Yazılımı değiştirmek, çevirmek, tersine mühendislik yapmak, kaynak koda dönüştürmek veya kaynak kodunu elde etmeye çalışmak.
+•	Yazılımı temel alan türev eserler oluşturmak veya başka projelere entegre etmek.
+•	Yazılımdaki herhangi bir güvenlik veya lisanslama mekanizmasını atlamak veya değiştirmek.
 
 3. MÜLKİYET VE FİKRİ MÜLKİYET HAKLARI
 Yazılım satılmamakta, yalnızca lisanslanmaktadır. Yazılıma ait tüm telif hakları, patentler, ticari sırlar ve ticari markalar dahil olmak üzere tüm hak, mülkiyet ve menfaatler münhasıran Özkan Tanrıkulu / OpenGate'e aittir.
 
 4. GARANTİ REDDİ
-BU YAZILIM "OLDUĞU GİBİ" VE "MEVCUT OLDUĞU ŞEKİLDE" SUNULMAKTADIR. TİCARİ ELVERİŞLİLİĞE, BELİRLİ BİR AMACA UYGUNLUĞA VE İHLAL ETMEMEYE İLİŞKİN GARANTİLER DÂHİL ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE AÇIK VEYA ZIMNİ HİÇBİR GARANTİ VERİLMEMEKTEDİR.
+BU YAZILIM "OLDUĞU GİBİ" VE "MEVCUT OLDUĞU ŞEKİLDE" SUNULMAKTADIR. TİCARİ ELVERİŞLİLİĞE, BELİRLİ BİR AMACA UYGUNLUĞA VE İHLAL ETMEMEYE İLİŞKİN GARANTİLER DAHİL ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE AÇIK VEYA ZIMNİ HİÇBİR GARANTİ VERİLMEMEKTEDİR.
 
 5. SORUMLULUK SINIRLAMASI
 HAK SAHİBİ HİÇBİR DURUMDA; YAZILIMDAN, YAZILIMIN KULLANIMINDAN VEYA YAZILIMLA İLGİLİ DİĞER İŞLEMLERDEN KAYNAKLANAN SÖZLEŞME İHLALİ, HAKSIZ FİİL VEYA DİĞER SEBEPLERE DAYALI HİÇBİR TALEPTEN, ZARARDAN VEYA DİĞER YÜKÜMLÜLÜKLERDEN SORUMLU TUTULAMAZ.
+
+6. FESİH
+Bu lisans feshedilene kadar geçerliliğini korur. Bu Sözleşmenin herhangi bir hükmüne uyulmaması halinde lisans, Lisans Veren tarafından herhangi bir bildirim yapılmaksızın otomatik olarak sona erer. Fesih halinde, Yazılımı derhal kullanmayı bırakmanız ve elinizde bulunan tüm kopyaları imha etmeniz zorunludur.
+
+7. DİL ÖNCELİĞİ
+Bu Sözleşme hem İngilizce hem de Türkçe olarak sunulmaktadır. İki versiyon arasında herhangi bir çelişki veya tutarsızlık olması halinde, İngilizce versiyon esas alınır ve geçerli sayılır.
