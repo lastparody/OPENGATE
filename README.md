@@ -8,7 +8,7 @@
 </p><br>
 
 <p align="center">
-  <a href="https://ozkantanrikulu.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Powered%20by-Özkan%20Tanrıkulu-1e6eb5?style=plastic" alt="Powered by Özkan Tanrıkulu"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/version-1.0.3-e94560?style=plastic" alt="Version"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/macOS-14.0+-000000?style=plastic" alt="macOS"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/Silicon%20%26%20Intel-compatible-cd7700?style=plastic" alt="Architecture"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/license-Proprietary-9b59b6?style=plastic" alt="License"></a>&nbsp;&nbsp;<a href="https://virustotal.com/gui/file/48d0ed815c7a0c738ff047da4a81f33deb479abfd28516b7652a0f8746f6edbc" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/VirusTotal-Clean-brightgreen?style=plastic&logo=virustotal&logoColor=white" alt="VirusTotal"></a>
+  <a href="https://ozkantanrikulu.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Powered%20by-ÖZKAN%20TANRIKULU-7c3aed?style=plastic" alt="Powered by ÖZKAN TANRIKULU"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/version-1.0.4-e94560?style=plastic" alt="Version"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/Windows-10%2F11-0078d7?style=plastic&logo=windows" alt="Windows"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/macOS-14.0+-000000?style=plastic&logo=apple&logoColor=white" alt="macOS"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/license-Proprietary-9b59b6?style=plastic" alt="License"></a>&nbsp;&nbsp;<a href="https://virustotal.com/gui/file/48d0ed815c7a0c738ff047da4a81f33deb479abfd28516b7652a0f8746f6edbc" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/VirusTotal-Clean-brightgreen?style=plastic&logo=virustotal&logoColor=white" alt="VirusTotal"></a>
 </p> <br>
 
 
@@ -16,19 +16,19 @@
 
 ## OpenGate Nedir?
 
-OpenGate, DPI bypass ve sansür atlatma için yerel bir macOS uygulamasıdır. Yüksek performanslı Go çekirdeği üzerine inşa edilmiştir. SNI parçalaması, TCP segmentasyonu ve DNS-over-HTTPS aracılığıyla internet servis sağlayıcılarının kısıtlamalarını atlatır. Çok katmanlı paket bölme teknikleriyle derin paket incelemeyi (DPI) devre dışı bırakır. Tek butonla çalışan sade bir arayüz, teknik bilgi gerektirmeyen kullanıcı dostu yapı.
+OpenGate, DPI bypass ve sansür atlatma için multi platform (Windows, macOS, Docker) destekli bir uygulamadır. Yüksek performanslı Go çekirdeği üzerine inşa edilmiştir. SNI parçalaması, TCP segmentasyonu ve DNS-over-HTTPS aracılığıyla internet servis sağlayıcılarının kısıtlamalarını atlatır. Çok katmanlı paket bölme teknikleriyle derin paket incelemeyi (DPI) devre dışı bırakır. Tek butonla çalışan sade bir arayüz, teknik bilgi gerektirmeyen kullanıcı dostu yapı.
 
 ---
 
 ## Özellikler
 
-- **SNI Parçalaması** — Ana makine adı tabanlı filtrelemeyi önlemek için TLS Client Hello paketlerini böler.
-- **TCP Segmentasyonu** — Durum bilgisi olan DPI motorlarının kafasını karıştırmak için TCP akışlarını küçük segmentlere ayırır.
+- **SNI Parçalama** — Ana makine adı tabanlı filtrelemeyi önlemek için TLS Client Hello paketlerini böler.
+- **TCP Segmentasyon** — Durum bilgisi olan DPI motorlarının kafasını karıştırmak için TCP akışlarını küçük segmentlere ayırır.
 - **DNS-over-HTTPS (DoH)** — Tüm DNS sorgularını HTTPS üzerinden şifreleyerek DNS tabanlı engellemeleri ve gözetimi ortadan kaldırır.
-- **Otomatik Sistem Proxy'si** — Tek bir tıklamayla tüm macOS ağ trafiğini bypass çekirdeği üzerinden yönlendirir.
-- **Yerel Ağ Yayını** — Mac'inizi bir proxy sunucusuna dönüştürerek DPI korumasını yerel ağınızdaki her cihaza genişletir.
+- **Otomatik Sistem Proxy** — Tek bir tıklamayla tüm sistem ağ trafiğini bypass çekirdeği üzerinden yönlendirir.
+- **Yerel Ağ Yayın** — Cihazınızı bir proxy sunucusuna dönüştürerek DPI korumasını yerel ağınızdaki her cihaza genişletir.
 - **Girişte Başlat** — Oturum açtığınızda korumayı otomatik olarak etkinleştirir.
-- **Apple Silicon & Intel** — Her iki mimaride native çalışır.
+- **Çoklu Platform** — Windows, Apple Silicon ve Apple Intel cihazlarda native çalışır.
 
 ---
 
@@ -38,7 +38,6 @@ OpenGate düşük kaynak tüketimiyle çalışacak şekilde tasarlanmış ve opt
 
 | Metrik | Değer |
 |--------|-------|
-| RAM Kullanımı | ~20 MB |
 | CPU Kullanımı | <%0,1 |
 | Pil Etkisi | Minimal |
 | Ağ Performansı  | Bant genişliği korunur |
@@ -50,7 +49,8 @@ OpenGate düşük kaynak tüketimiyle çalışacak şekilde tasarlanmış ve opt
 
 ## Kurulum
 
-1.  En güncel `OpenGate.zip` dosyasını [Releases](https://github.com/lastparody/opengate/releases) sayfasından indirin.
+### macOS
+1.  En güncel macOS sürümünü [Releases](https://github.com/lastparody/opengate/releases) sayfasından indirin.
 2.  ZIP dosyasını açın ve içindeki **OpenGate.app** dosyasını **Uygulamalar** klasörüne sürükleyin.
 3.  Uygulamayı ilk kez açtığınızda macOS bir güvenlik uyarısı gösterecektir. Bu durumda:
       - İletişim kutusundaki **"Tamam"** butonuna basarak pencereyi kapatın.
@@ -59,6 +59,11 @@ OpenGate düşük kaynak tüketimiyle çalışacak şekilde tasarlanmış ve opt
       - Tekrar sorulduğunda şifrenizi girin veya Touch ID kullanarak açın.
 
 > OpenGate Apple tarafından onaylı değildir. Bu durum bağımsız geliştirilen açık dağıtımlı yazılımlar için standart bir prosedürdür. Uygulama herhangi bir zararlı kod içermemektedir ve gösterilen uyarı standart bir macOS protokolüdür.
+
+### Windows (Portable)
+1.  En güncel Windows sürümünü [Releases](https://github.com/lastparody/opengate/releases) sayfasından indirin.
+2.  ZIP dosyasını açıp içindeki klasörü bilgisayarınızda `Program Dosyaları (x86)` gibi uygun bir konuma taşıyın (Kurulum gerektirmez).
+3.  Klasör içerisindeki uygulama dosyasına sağ tıklayıp masaüstünüze bir kısayol oluşturarak kullanmaya başlayabilirsiniz.
 
 ---
 
@@ -94,9 +99,6 @@ OpenGate düşük kaynak tüketimiyle çalışacak şekilde tasarlanmış ve opt
 **❓ Şarjımı tüketir mi?**
 - Hayır. Go çekirdeği olay odaklıdır ve boşta olduğunda uyku moduna geçer. Normal çalışma sırasında CPU kullanımı **%0.1**'in altında kalır.
 
-**❓ Ne kadar RAM kullanır?**
-- Yaklaşık **20 MB** seviyesindedir. Bellek kullanımı stabildir ve kullanım süresi arttıkça yükselmez.
-
 **❓ Uygulamayı açık tutmam gerekiyor mu?**
 - Evet. Oturum açıldığında otomatik olarak başlatmak için ayarlardan **Başlangıçta Çalıştır** seçeneğini etkinleştirin.
 
@@ -125,7 +127,7 @@ Bu yazılım kapalı kaynak bir projedir. Kullanım şartlarının tamamı için
 </p><br>
 
 <p align="center">
-  <a href="https://ozkantanrikulu.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Powered%20by-OZKAN%20TANRIKULU-1e6eb5?style=plastic" alt="Powered by OZKAN TANRIKULU"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/version-1.0.3-e94560?style=plastic" alt="Version"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/macOS-14.0+-000000?style=plastic" alt="macOS"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/Silicon%20%26%20Intel-compatible-cd7700?style=plastic" alt="Architecture"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/license-Proprietary-9b59b6?style=plastic" alt="License"></a>&nbsp;&nbsp;<a href="https://virustotal.com/gui/file/48d0ed815c7a0c738ff047da4a81f33deb479abfd28516b7652a0f8746f6edbc" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/VirusTotal-Clean-brightgreen?style=plastic&logo=virustotal&logoColor=white" alt="VirusTotal"></a>
+  <a href="https://ozkantanrikulu.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Powered%20by-OZKAN%20TANRIKULU-1e6eb5?style=plastic" alt="Powered by OZKAN TANRIKULU"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/version-1.0.4-e94560?style=plastic" alt="Version"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/Windows-10%2F11-0078d7?style=plastic&logo=windows" alt="Windows"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/macOS-14.0+-000000?style=plastic&logo=apple&logoColor=white" alt="macOS"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/license-Proprietary-9b59b6?style=plastic" alt="License"></a>&nbsp;&nbsp;<a href="https://virustotal.com/gui/file/48d0ed815c7a0c738ff047da4a81f33deb479abfd28516b7652a0f8746f6edbc" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/VirusTotal-Clean-brightgreen?style=plastic&logo=virustotal&logoColor=white" alt="VirusTotal"></a>
 </p><br>
 
 
@@ -133,7 +135,7 @@ Bu yazılım kapalı kaynak bir projedir. Kullanım şartlarının tamamı için
 
 ## What is OpenGate?
 
-OpenGate is a native macOS application designed for DPI bypass and censorship circumvention. Built on a high-performance Go core, it effectively defeats ISP restrictions through advanced techniques such as SNI fragmentation, TCP segmentation, and DNS-over-HTTPS (DoH). By employing multi-layered packet-splitting strategies, it neutralizes Deep Packet Inspection (DPI) at the source. Featuring a minimalist, one-click interface, OpenGate offers a user-friendly experience that requires zero technical knowledge.
+OpenGate is a native multi-platform (Windows, macOS) application designed for DPI bypass and censorship circumvention. Built on a high-performance Go core, it effectively defeats ISP restrictions through advanced techniques such as SNI fragmentation, TCP segmentation, and DNS-over-HTTPS (DoH). By employing multi-layered packet-splitting strategies, it neutralizes Deep Packet Inspection (DPI) at the source. Featuring a minimalist, one-click interface, OpenGate offers a user-friendly experience that requires zero technical knowledge.
 
 ---
 
@@ -142,10 +144,10 @@ OpenGate is a native macOS application designed for DPI bypass and censorship ci
 - **SNI Fragmentation** — Splits TLS Client Hello packets to prevent hostname-based filtering
 - **TCP Segmentation** — Breaks TCP streams into small segments to confuse stateful DPI engines
 - **DNS-over-HTTPS (DoH)** — Encrypts all DNS queries over HTTPS, eliminating DNS-based blocking and surveillance
-- **Automatic System Proxy** — Instantly routes all macOS network traffic through the bypass core with a single click
-- **Local Network Broadcasting** — Turns your Mac into a proxy server, extending DPI protection to every device on your local network
+- **Automatic System Proxy** — Instantly routes all system network traffic through the bypass core with a single click
+- **Local Network Broadcasting** — Turns your device into a proxy server, extending DPI protection to every device on your local network
 - **Launch at Login** — Automatically activates protection when you log in
-- **Universal Binary** — Runs natively on both Apple Silicon and Intel Macs
+- **Multi-Platform** — Runs natively on Windows, Apple Silicon, and Apple Intel devices
 
 ---
 
@@ -155,7 +157,6 @@ OpenGate is engineered and optimized for minimal resource consumption.
 
 | Metric | Value |
 |--------|-------|
-| RAM Usage | ~20 MB (stable, background) |
 | CPU Usage | <0,1% (idle) |
 | Battery Impact | Negligible |
 | Network Speed | No reduction |
@@ -167,7 +168,8 @@ OpenGate is engineered and optimized for minimal resource consumption.
 
 ## Installation
 
-1.  Download the latest `OpenGate.zip` from the [Releases](https://github.com/lastparody/opengate/releases) page.
+### macOS
+1.  Download the latest macOS release from the [Releases](https://github.com/lastparody/opengate/releases) page.
 2.  Extract the ZIP file and drag **OpenGate.app** into your **Applications** folder.
 3.  When you first launch the app, macOS will display a security warning. To bypass this:
       - Click **"OK"** to close the dialog.
@@ -176,6 +178,11 @@ OpenGate is engineered and optimized for minimal resource consumption.
       - Confirm by entering your password or using Touch ID, then click **"Open"**.
 
 > OpenGate is not notarized by Apple. This is expected for open-distribution software. The security warning is a standard macOS Gatekeeper prompt.
+
+### Windows (Portable)
+1.  Download the latest Windows release from the [Releases](https://github.com/lastparody/opengate/releases) page.
+2.  Extract the ZIP file and move the folder to a location like `C:\Program Files (x86)`. (It is a portable distribution and requires no installation).
+3.  Right-click on the application executable inside the folder and create a shortcut on your desktop for easy access.
 
 ---
 
@@ -210,9 +217,6 @@ OpenGate is engineered and optimized for minimal resource consumption.
 
 **❓ Does it drain my battery?**
 - No. The Go core is event-driven and sleeps when idle. CPU usage stays below **0.1%** during normal operation.
-
-**❓ How much RAM does it use?**
-- Approximately **20 MB**, stable. Does not grow over time.
 
 **❓ Do I need to keep the app open?**
 - Yes. Enable **Launch at Startup** in settings to start it automatically on login.
