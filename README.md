@@ -50,15 +50,12 @@ OpenGate düşük kaynak tüketimiyle çalışacak şekilde tasarlanmış ve opt
 ## Kurulum
 
 ### macOS
-1.  En güncel macOS sürümünü [Releases](https://github.com/lastparody/opengate/releases) sayfasından indirin.
-2.  ZIP dosyasını açın ve içindeki **OpenGate.app** dosyasını **Uygulamalar** klasörüne sürükleyin.
-3.  Uygulamayı ilk kez açtığınızda macOS bir güvenlik uyarısı gösterecektir. Bu durumda:
-      - İletişim kutusundaki **"Tamam"** butonuna basarak pencereyi kapatın.
-      - Mac'inizde **Sistem Ayarları → Gizlilik ve Güvenlik** (System Settings → Privacy & Security) bölümüne gidin.
-      - En alta kaydırarak **"Yine de Aç"** butonuna tıklayın.
-      - Tekrar sorulduğunda şifrenizi girin veya Touch ID kullanarak açın.
+OpenGate, Apple tarafından güvenlik taramalarından geçirilmiş ve onaylanmış **Notarized** güvenilir bir yazılımdır.
 
-> OpenGate Apple tarafından onaylı değildir. Bu durum bağımsız geliştirilen açık dağıtımlı yazılımlar için standart bir prosedürdür. Uygulama herhangi bir zararlı kod içermemektedir ve gösterilen uyarı standart bir macOS protokolüdür.
+1. En güncel macOS sürümünü **Releases** sayfasından indirin.
+2. İndirdiğiniz **.dmg** dosyasına çift tıklayarak açın.
+3. Açılan penceredeki **OpenGate** ikonunu, Uygulamalar klasörüne sürükleyip bırakın.
+4. Uygulamalar klasöründen OpenGate'i çalıştırın ve kullanmaya başlayın!
 
 ### Windows (Portable)
 1.  En güncel Windows sürümünü [Releases](https://github.com/lastparody/opengate/releases) sayfasından indirin.
