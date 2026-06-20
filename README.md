@@ -8,7 +8,7 @@
 </p><br>
 
 <p align="center">
-  <a href="https://ozkantanrikulu.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Powered%20by-ÖZKAN%20TANRIKULU-7c3aed?style=plastic" alt="Powered by ÖZKAN TANRIKULU"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/version-1.0.4-e94560?style=plastic" alt="Version"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/Windows-10%2F11-0078d7?style=plastic&logo=windows" alt="Windows"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/macOS-14.0+-000000?style=plastic&logo=apple&logoColor=white" alt="macOS"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/license-Proprietary-9b59b6?style=plastic" alt="License"></a>&nbsp;&nbsp;<a href="https://virustotal.com/gui/file/48d0ed815c7a0c738ff047da4a81f33deb479abfd28516b7652a0f8746f6edbc" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/VirusTotal-Clean-brightgreen?style=plastic&logo=virustotal&logoColor=white" alt="VirusTotal"></a>
+  <a href="https://ozkantanrikulu.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Powered%20by-ÖZKAN%20TANRIKULU-7c3aed?style=plastic" alt="Powered by ÖZKAN TANRIKULU"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/version-1.0.5-e94560?style=plastic" alt="Version"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/Windows-10%2F11-0078d7?style=plastic&logo=windows" alt="Windows"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/macOS-14.0+-000000?style=plastic&logo=apple&logoColor=white" alt="macOS"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/license-Proprietary-9b59b6?style=plastic" alt="License"></a>&nbsp;&nbsp;
 </p> <br>
 
 
@@ -94,7 +94,7 @@ OpenGate, Apple tarafından güvenlik taramalarından geçirilmiş ve onaylanmı
 - Hayır. Bant genişliği üzerinde herhangi bir performans kaybına yol açmaz. SNI parçalaması nedeniyle yalnızca her yeni bağlantı kurulumunda 30–150 ms'lik bir gecikme yaşanır; bağlantı kurulduktan sonraki tüm veri akışı tam hızda devam eder.
 
 **❓ Şarjımı tüketir mi?**
-- Hayır. Go çekirdeği olay odaklıdır ve boşta olduğunda uyku moduna geçer. Normal çalışma sırasında CPU kullanımı **%0.1**'in altında kalır.
+- Hayır. Go çekirdeği olay odaklıdır ve boşta olduğunda uyku moduna geçer. Normal çalışma sırasında CPU kullanımı **%0.01**'in altında kalır.
 
 **❓ Uygulamayı açık tutmam gerekiyor mu?**
 - Evet. Oturum açıldığında otomatik olarak başlatmak için ayarlardan **Başlangıçta Çalıştır** seçeneğini etkinleştirin.
@@ -102,7 +102,7 @@ OpenGate, Apple tarafından güvenlik taramalarından geçirilmiş ve onaylanmı
 **❓ Aynı ağdaki diğer cihazlarda kullanabilir miyim?**
 - Evet. Ayarlardan **Proxy Yayını** seçeneğini etkinleştirin, ardından hedef cihazı manuel olarak yapılandırın.
 
-**❓ Trafiğim kayıt altına alınıyor mu (loglanıyor mu)?**
+**❓ Trafiğim kayıt altına alınıyor mu ?**
 - Hayır. OpenGate tamamen kendi cihazınızda çalışır, hiçbir harici sunucuya veri gönderilmez.
   
 ---
@@ -124,7 +124,7 @@ Bu yazılım kapalı kaynak bir projedir. Kullanım şartlarının tamamı için
 </p><br>
 
 <p align="center">
-  <a href="https://ozkantanrikulu.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Powered%20by-OZKAN%20TANRIKULU-1e6eb5?style=plastic" alt="Powered by OZKAN TANRIKULU"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/version-1.0.4-e94560?style=plastic" alt="Version"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/Windows-10%2F11-0078d7?style=plastic&logo=windows" alt="Windows"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/macOS-14.0+-000000?style=plastic&logo=apple&logoColor=white" alt="macOS"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/license-Proprietary-9b59b6?style=plastic" alt="License"></a>&nbsp;&nbsp;<a href="https://virustotal.com/gui/file/48d0ed815c7a0c738ff047da4a81f33deb479abfd28516b7652a0f8746f6edbc" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/VirusTotal-Clean-brightgreen?style=plastic&logo=virustotal&logoColor=white" alt="VirusTotal"></a>
+  <a href="https://ozkantanrikulu.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Powered%20by-OZKAN%20TANRIKULU-1e6eb5?style=plastic" alt="Powered by OZKAN TANRIKULU"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/version-1.0.5-e94560?style=plastic" alt="Version"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/Windows-10%2F11-0078d7?style=plastic&logo=windows" alt="Windows"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/macOS-14.0+-000000?style=plastic&logo=apple&logoColor=white" alt="macOS"></a>&nbsp;&nbsp;<a href="#"><img src="https://img.shields.io/badge/license-Proprietary-9b59b6?style=plastic" alt="License"></a>&nbsp;&nbsp;
 </p><br>
 
 
@@ -213,7 +213,7 @@ OpenGate is engineered and optimized for minimal resource consumption.
 - No. It does not cause any bandwidth performance loss. Due to SNI fragmentation, a brief delay of 30–150 ms occurs only during each new connection handshake; once established, all subsequent data flows at full line speed.
 
 **❓ Does it drain my battery?**
-- No. The Go core is event-driven and sleeps when idle. CPU usage stays below **0.1%** during normal operation.
+- No. The Go core is event-driven and sleeps when idle. CPU usage stays below **0.01%** during normal operation.
 
 **❓ Do I need to keep the app open?**
 - Yes. Enable **Launch at Startup** in settings to start it automatically on login.
